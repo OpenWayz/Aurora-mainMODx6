@@ -1,7 +1,7 @@
 {
   "name": "MURUA",
-  "description": "致力于为您提供最好的网络服务",
-  "version": "1.6.24",
+  "description": "加速国际网络访问",
+  "version": "1.7.23",
   "images": "https://images.unsplash.com/photo-1654886848152-93c1baed9e14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1975&q=80",
   "configs": [
     {
@@ -57,15 +57,15 @@
       "field_type": "select",
       "select_options": {
         "default": "默认",
-        "dustRed": "薄暮",
-        "volcano": "火山",
-        "sunsetOrange": "日暮",
-        "calendulaGold": "金盏花",
-        "sunriseYellow": "日出",
+        "dustRed": "暮",
+        "volcano": "山",
+        "sunsetOrange": "暮",
+        "calendulaGold": "花",
+        "sunriseYellow": "出",
         "lime": "青柠",
-        "polarGreen": "极光绿",
-        "cyan": "明青",
-        "daybreakBlue": "拂晓蓝"
+        "polarGreen": "绿",
+        "cyan": "青",
+        "daybreakBlue": "蓝"
       },
       "default_value": "default"
     },
