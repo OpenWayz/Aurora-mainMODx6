@@ -693,11 +693,6 @@
                       [
                         a("a-icon", {
                           attrs: { type: t.showMenu ? "close" : "menu" },
-                          on: {
-                            click: function (s) {
-                              s.stopPropagation(), (t.showMenu = !t.showMenu);
-                            },
-                          },
                         }),
                       ],
                       1
